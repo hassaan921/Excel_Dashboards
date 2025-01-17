@@ -18,4 +18,4 @@ Process:
 3. Created structured pivot tables for detailed insights.
 4. Developed a visually compelling and interactive dashboard.
 
-Please explore the Excel file. Your feedback is valuable as I continue learning and refining my skills in data analytics and dashboard design! 
+Please access the brief report in PDF format uploaded herein, and explore the accompanying Excel file. Your feedback is valuable as I continue learning and refining my skills in data analytics and dashboard design! 
