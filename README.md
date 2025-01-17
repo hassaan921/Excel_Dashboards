@@ -1,6 +1,5 @@
-My First Excel Dashboard Project
+This dynamic Excel dashboard was produced as part of a portfolio project under the Data Analytics bootcamp at atomcamp.
 
-I am thrilled to share my first dynamic Excel dashboard project. This was produced as part of a portfolio project under the Data Analytics bootcamp at atomcamp.
 I focused on analyzing the state of schooling in Punjab, Pakistan. This project showcases my journey in data cleaning, analysis, and visualization using Excel. 
 
 Here's a quick overview:
